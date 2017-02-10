@@ -1,8 +1,5 @@
 ## Welcome to pubdba.com
-
-You can use the [editor on GitHub](https://github.com/yangruiyou85/pubdba/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+分享开源IT技术，包括不限于MySQL,PostgreSQL,系统基础架构，运维自动化。
 
 ### 2017
 
